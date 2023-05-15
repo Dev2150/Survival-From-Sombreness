@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: db3a3374cbb044c4e90a37bbb06c5156
+timeCreated: 1485900558
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bloodfab: {instanceID: 0}
+  - enemy: {fileID: 1726504772203048, guid: 54e0c4235c4855d4992cb04da82c4291, type: 2}
+  - energyCube: {fileID: 1988361661886998, guid: 2e481d9ddab8e9649be8f7e3e3dc3e1d,
+      type: 2}
+  - energySphere: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
