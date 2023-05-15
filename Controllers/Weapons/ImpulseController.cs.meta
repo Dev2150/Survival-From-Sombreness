@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 7a6286775450fca47bc2f3519b3c2c3b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - o_blackHole: {fileID: 1969847999647108, guid: b625142463fdccd44a3f863c31dffa74,
+      type: 2}
+  executionOrder: 0
+  icon: {fileID: -3839803715187477772, guid: 0000000000000000d000000000000000, type: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

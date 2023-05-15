@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e0f7067b615359c4892cb917d0fe120e
+timeCreated: 1502418543
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - sonicWave: {fileID: 1996892433291478, guid: dc46418d6e3609f41aaf924b968146c6,
+      type: 2}
+  executionOrder: 0
+  icon: {fileID: -982381405332843317, guid: 0000000000000000d000000000000000, type: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
